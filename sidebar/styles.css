@@ -107,7 +107,7 @@ body {
   }
 
   .contents {
-    margin-left: 160px;
+    margin-left: 150px;
     padding-top: 90px;
   }
 
@@ -131,3 +131,9 @@ body {
     padding: 10px;
     display: none;
   }  
+
+  .contacts-img {
+    display: block;
+    margin: 0 auto;
+    height: 250px;
+  }
