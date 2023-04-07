@@ -40,8 +40,11 @@ body {
 }
 
 .sidebar a:hover {
-    background-color: #ef4958;
-    color: white    ;
+  background-color: #ef4958;
+}
+
+.sidebar a.active {
+  background-color: #ef4958;
 }
 
 .logo {
@@ -89,14 +92,9 @@ body {
   }
 
   .content {
-    display: flex;
-    flex-wrap: wrap;
-    justify-content: center;
-    align-items: center;
-    margin-left: 120px;
+    margin-left: 150px;
     padding: 1px 16px;
     padding-top: 50px;
-    
   }
   
   .content img {
