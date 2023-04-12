@@ -65,36 +65,9 @@ body {
     font-size: 20px;
 }
 
-#logout-btn {
-    position: fixed;
-    top: 15px;
-    right: 20px;
-    font-size: 16px;
-    padding: 10px 20px;
-    border: none;
-    background-color: #ef4958;
-    color: #fff;
-    cursor: pointer;
-  }
-
-  #user {
-    position: fixed;
-    top: 1px;
-    right: 100px;
-    font-size: 16px;
-    padding: 10px 20px;
-    border: none;
-    color: #fff;
-  }
-  
-  #logout-btn:hover {
-    background-color: #333;
-  }
-
   .content {
     margin-left: 150px;
     padding: 1px 16px;
-    padding-top: 50px;
   }
   
   .content img {
@@ -106,7 +79,7 @@ body {
 
   .contents {
     margin-left: 150px;
-    padding-top: 90px;
+    padding-top: 20px;
   }
 
   .accordion {
